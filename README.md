@@ -1,1 +1,1 @@
-# Training
+# Graph Fundamentals
