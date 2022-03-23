@@ -1,4 +1,4 @@
-#  GIT INIT
+#  GIT INNIT
 
 ## INSTALL GIT
 
